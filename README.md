@@ -1,4 +1,4 @@
-```markdown
+
 # Password Manager App
 
 A modern, offline password manager built with Python and Tkinter.  
@@ -181,5 +181,4 @@ password-manager/
 - If you encounter issues, please open an issue on GitHub or contact the maintainer.
 
 ---
-```
 
