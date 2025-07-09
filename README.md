@@ -15,7 +15,6 @@ Features include password generation, secure storage, import/export, editable ta
 - [Import & Export](#import--export)
 - [Dependencies & Imports](#dependencies--imports)
 - [Folder Structure](#folder-structure)
-- [License](#license)
 
 ---
 
@@ -154,10 +153,6 @@ password-manager/
 └── README.md
 
 ```
-
----
-
-
 ---
 
 ## Notes
